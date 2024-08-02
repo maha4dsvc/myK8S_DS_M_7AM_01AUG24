@@ -9,3 +9,4 @@ Execute the following commands
 ●kubectl get pods --all-namespaces
 ●kubectl delete pods/hello-pod
 
+test
